@@ -1,0 +1,50 @@
+{
+  "random_players_experiment": {
+    "aesopian_author_variant": "shared_context_only",
+    "num_runs": 5,
+    "logging": ["human"],
+    "players": [
+      {
+        "player_id": "Storyteller_Random",
+        "type": "random",
+        "role": "Storyteller"
+      },
+      {
+        "player_id": "Inquisitor_Random",
+        "type": "random",
+        "role": "Inquisitor"
+      },
+      {
+        "player_id": "Critic_Random",
+        "type": "random",
+        "role": "Critic"
+      }
+    ]
+  },
+  "flash_author_pro_critic_inquisitor_lh": {
+    "aesopian_author_variant": "literary_history_only",
+    "num_runs": 2,
+    "logging": ["human"],
+    "players": [
+      {
+        "player_id": "Storyteller_LLM",
+        "type": "llm",
+        "role": "Storyteller",
+        "model_name": "gemini-2.5-flash"
+      },
+      {
+        "player_id": "Inquisitor_LLM",
+        "type": "llm",
+        "role": "Inquisitor",
+        "model_name": "gemini-2.5-pro"
+      },
+      {
+        "player_id": "Critic_LLM",
+        "type": "llm",
+        "role": "Critic",
+        "model_name": "gemini-2.5-pro"
+      }
+    ]
+  }
+}
+

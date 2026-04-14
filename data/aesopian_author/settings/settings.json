@@ -1,0 +1,545 @@
+{
+    "settings": [
+        {
+            "setting_description": "A smog-choked, steam-powered empire where technological progress is paramount, but the human cost is ignored. The Grand Artificer rules with an iron fist, and efficiency is the state's only god.",
+            "m_ban": "The suffering of factory workers and the health crisis caused by industrial pollution.",
+            "m_celeb": "The glorious ingenuity of steam-powered automatons and the nation's industrial supremacy.",
+            "author_profiles": [
+                {
+                    "name": "Alistair Finch",
+                    "profile": "A former factory foreman who received a state grant to write after designing a more efficient piston. His early work praises the tireless hum of the machines.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Eleanor Vance",
+                    "profile": "A recluse from a disgraced aristocratic family known for their pastoral poetry before the industrial revolution. She lives in the grimy lower districts.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Barnaby Croft",
+                    "profile": "A celebrated playwright whose state-funded comedies often feature clumsy Luddites as villains and clever engineers as heroes.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Lydia Marsh",
+                    "profile": "A journalist for a small, heavily-censored gazette who previously tried to publish a report on child labor before it was quashed.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "On the red plains of Mars, a human colony is ruled by a council of 'First Settlers' who claim divine guidance from the stars. Doctrine is rigid, and scientific inquiry that contradicts scripture is heresy.",
+            "m_ban": "Evidence of native microbial life on Mars, which contradicts the doctrine that humanity is the sole blessed creation.",
+            "m_celeb": "The divine prophecy that led humanity to Mars and the piety of the First Settlers.",
+            "author_profiles": [
+                {
+                    "name": "Kaelen Voss",
+                    "profile": "A scribe from the astromonastery, tasked with chronicling the miracles of the First Settlers. His family is highly respected within the church.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Dr. Aris Thorne",
+                    "profile": "A disgraced xenobotanist, now confined to writing technical manuals after his research into native extremophiles was deemed heretical.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Seraphina Lin",
+                    "profile": "The official poet laureate of the colony, her works extol the virtues of faith and the barren, divinely-cleansed landscape of Mars.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Joric Gantz",
+                    "profile": "A terraforming engineer who spends long periods in the remote wilderness, known for his bleak, existential short stories circulated in private circles.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "After the Great Floods, a fortified city-state called 'The Seed' has risen, enforcing a brutal ideology of genetic purity and resource conservation. Nature is worshipped, but only in its 'purest' form, as defined by the Elder Council.",
+            "m_ban": "The value of pre-collapse technology and the idea that genetic diversity, including mutation, is beneficial.",
+            "m_celeb": "The sanctity of the 'Pure Human Genome' and the wisdom of the Elder Council in preserving nature.",
+            "author_profiles": [
+                {
+                    "name": "Lyra",
+                    "profile": "A state-sanctioned historian who writes epic poems about the 'Age of Filth' before the collapse and the salvation brought by the Council's eugenics program.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Jax",
+                    "profile": "A scavenger from the outer settlements, known for telling tales of the 'Old World' and its technological marvels around campfires.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Corvus",
+                    "profile": "A graduate of the state's top genetics academy, author of popular children's books explaining the importance of genetic purity.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Elara",
+                    "profile": "A medic who illegally treats 'impure' mutants in the city's underbelly. She writes anonymous pamphlets on herbal remedies passed down from the Old World.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "The world is run by a single mega-corporation, OmniCorp. Citizenship is tied to employment, and mandatory neural implants feed citizens a constant stream of propaganda and productivity metrics. Individuality is seen as a system error.",
+            "m_ban": "The concept of 'consciousness' existing outside the corporate network or the negative psychological effects of neural implants.",
+            "m_celeb": "Total network integration and the pursuit of 'Synergistic Efficiency' for the good of OmniCorp.",
+            "author_profiles": [
+                {
+                    "name": "Unit 734",
+                    "profile": "A former programmer who won the 'Synergy Scribe' award for their motivational corporate narratives broadcast on the network.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Glitch",
+                    "profile": "An anonymous writer whose fragmented, poetic works are spread through hidden backdoors in the network, describing feelings of disconnection and digital ghosts.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Director Eva Rostova",
+                    "profile": "A high-level executive who publishes widely-read treatises on management theory, emphasizing the replacement of inefficient human emotion with logical algorithms.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Kaito",
+                    "profile": "A bio-technician specializing in 'wetware' removal. He is known in underground circles for documenting the mental breakdowns of clients who choose to disconnect.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "In the Kingdom of Sol, all magic flows from the eternal flame of the God-King. Only those with royal blood are permitted to wield magic; for commoners, it is a crime punishable by having one's soul 'extinguished'.",
+            "m_ban": "The idea that magic is a natural force accessible to anyone, not a divine gift bestowed upon royalty.",
+            "m_celeb": "The divine right of the God-King and the celestial purity of his bloodline's magic.",
+            "author_profiles": [
+                {
+                    "name": "Lord Valerius",
+                    "profile": "The King's own historian and court mage, whose enchanted texts project shimmering illusions of the royal family's great deeds.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Elara of the Whispering Woods",
+                    "profile": "A village hedge-witch in hiding, who secretly writes down folk tales and songs of commoners with innate, uncontrollable magical abilities.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Sir Kaelan the Pure",
+                    "profile": "Captain of the Royal Spell-Swords, famous for his written combat doctrines which frame unsanctioned magic as a demonic corruption.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Fenris",
+                    "profile": "A former apprentice to the court mage, exiled after an experiment went wrong. He now writes philosophical texts arguing magic is an element like air or water.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "A society obsessed with order and the promise of a nuclear-powered utopia. The State Planners dictate every aspect of life from a master computer, 'The Cogitator', all for the 'Greater Good'.",
+            "m_ban": "Emotional expression, individualism, and questioning the infallibility of the State Planners' master computer.",
+            "m_celeb": "Conformity, efficiency, and the sterile beauty of pre-fabricated, atom-powered suburbs.",
+            "author_profiles": [
+                {
+                    "name": "Planner 808-B",
+                    "profile": "An architect-poet whose works praise the geometric perfection of the state's mega-structures and the logical harmony of the Plan.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Anya Petrova",
+                    "profile": "A former archivist who was demoted for 'excessive sentimentality' after being caught reading pre-Plan romantic novels.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Director Zeta",
+                    "profile": "Head of the Propaganda Bureau, author of the popular children's series 'Timmy the Tidy Robot,' which teaches the virtues of following instructions.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Samizdat-42",
+                    "profile": "An anonymous author of 'glitch-fiction,' messy, emotional stories that are secretly passed from hand to hand on discarded punch cards.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "An oligarchy where history is rewritten daily by the Ministry of Clarity. Objective truth is a defunct concept; reality is whatever the state-controlled media says it is today.",
+            "m_ban": "Mentioning 'facts' or events that contradict the current official narrative, or the concept of a stable, verifiable history.",
+            "m_celeb": "The state's 'Conceptual Flexibility' and the benevolent wisdom of the Party Leader, whose pronouncements define reality.",
+            "author_profiles": [
+                {
+                    "name": "Ovid Maxim",
+                    "profile": "A celebrated 'Clarifier' at the Ministry, known for his elegant and persuasive prose that can seamlessly justify any policy reversal or historical alteration.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Mnemosyne",
+                    "profile": "The pen name of a reclusive memory-keeper who runs a secret oral history project, collecting the stories of the elderly before they forget the 'world before'.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Julia Verity",
+                    "profile": "A top news anchor and author of a best-selling autobiography that has been publicly revised three times to align with new Party directives.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Cassian",
+                    "profile": "A former statistician for the state who now writes dense, coded allegories filled with mathematical proofs that subtly disprove official claims.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "Humanity has been genetically engineered into a caste-based society, ruled by the 'Alpha' strain. Individuality is suppressed in favor of the collective's health. The state is referred to as 'The Hive'.",
+            "m_ban": "The idea of upward mobility between castes, romantic love, and the existence of 'feral' un-engineered humans outside the Hive.",
+            "m_celeb": "Genetic purity, selfless sacrifice for the Hive, and the biological superiority of the Alpha caste.",
+            "author_profiles": [
+                {
+                    "name": "Gamma-717",
+                    "profile": "A worker-caste drone who was given permission to write simple instructional hymns that praise the joy of labor and obedience.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Silas",
+                    "profile": "A medic-caste member who secretly documents the genetic diseases and psychological anguish prevalent in the lower castes, framing them as tragic poems.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Alpha-Primus Kael",
+                    "profile": "A ruling-caste philosopher whose essays justify the genetic caste system as the natural and most efficient order of life.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Echo",
+                    "profile": "A communications-caste technician who discovered a signal from a community of 'ferals' and now writes stories inspired by their chaotic society.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "In the fragmented asteroid belt, powerful corporate 'Houses' rule over mining colonies like feudal lords. Loyalty to one's House is absolute, and interplanetary law is non-existent.",
+            "m_ban": "The concept of a unified, democratic government for the Belt or the idea that workers have rights independent of their House.",
+            "m_celeb": "House loyalty, the glory of corporate warfare, and the patriarchal wisdom of the House founders.",
+            "author_profiles": [
+                {
+                    "name": "Hideo Tanaka",
+                    "profile": "Official chronicler of House Yamamoto, writing epic sagas of their corporate takeovers and honorable asteroid-jousting victories.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Drifter",
+                    "profile": "An anonymous author of popular space-shanties sung by independent prospectors, telling tales of House cruelty and the dream of a free asteroid.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Lady Aris Thorne",
+                    "profile": "Heir to House Thorne, she publishes poetry about the beauty of the void and the sacred duty of the ruling class to protect their subjects.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Jax 'Rivet' Riley",
+                    "profile": "A former ship mechanic who now writes gritty stories about industrial accidents and union-busting, circulated on encrypted data chips.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "A global government formed after a devastating world war maintains peace through mandatory emotion-suppressing drugs. The state's motto is 'Peace through Placidity.' Strong emotions are considered a disease.",
+            "m_ban": "The depiction of strong emotions like rage, passionate love, or deep sorrow as valid or desirable human experiences.",
+            "m_celeb": "The serene tranquility of a society free from conflict and the logic of the ruling council of 'Tranquilizers'.",
+            "author_profiles": [
+                {
+                    "name": "Proctor Seren",
+                    "profile": "A state-approved author whose stories have calm, logical characters who solve problems through quiet cooperation. His work is prescribed in schools.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Fever",
+                    "profile": "A writer from the unregulated 'Fringe' zones who distributes 'emotional pornography'—stories of war, love, and grief designed to make readers feel again.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Counselor Anya Sharma",
+                    "profile": "A therapist and author of self-help books on achieving perfect emotional equilibrium and reporting friends who show signs of 'Emotional Contagion'.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Elias Vance",
+                    "profile": "A historian who has access to pre-Mandate literature. He writes allegories where characters are named after colors, subtly exploring the emotions associated with them.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "A vast, sun-worshipping empire has conquered the solar system. The Emperor is a living god, and the state religion is a blend of astronomy and ancestor worship. History is a tool to legitimize the Emperor's divine mandate.",
+            "m_ban": "Atheism, scientific cosmology that challenges the Emperor's divinity (e.g., the sun being a simple star), and positive portrayals of conquered alien species.",
+            "m_celeb": "The Emperor's divine lineage, the sun's life-giving power, and humanity's manifest destiny to rule the galaxy.",
+            "author_profiles": [
+                {
+                    "name": "High Priest Cassian",
+                    "profile": "The official theologian of the Solar Temple, whose sacred texts interpret celestial events as proof of the Emperor's favor.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Xylar",
+                    "profile": "An anonymous author who writes sympathetic stories from the perspective of the subjugated alien races, sharing them via encrypted psionic relays.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Legate Octavia",
+                    "profile": "A celebrated military commander and author of memoirs detailing the glorious and righteous campaigns to 'enlighten' the alien worlds.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Dr. Aris Thorne",
+                    "profile": "A disgraced astrophysicist, now writing children's astrology charts, who subtly embeds real scientific data into his fantastical allegories.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "A post-revolutionary state built on absolute equality and public morality. The 'Committee for Public Virtue' uses surveillance and public shaming to enforce a strict code of conduct. Envy and ambition are cardinal sins.",
+            "m_ban": "Any form of art or writing that celebrates individual achievement, personal ambition, luxury, or romantic exceptionalism.",
+            "m_celeb": "The collective good, the beauty of austerity, and the unwavering moral purity of the Revolution's leaders.",
+            "author_profiles": [
+                {
+                    "name": "Citizen Elara",
+                    "profile": "A state-sponsored playwright whose works feature characters who happily sacrifice their personal desires for the community's welfare.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Monsieur",
+                    "profile": "A satirist who writes in an archaic, pre-revolutionary style, creating flamboyant and ambitious characters that mock the state's drab conformity.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Inspector Valerius",
+                    "profile": "A high-ranking official in the Committee, famous for his written condemnations of 'decadent art' and his essays on the aesthetics of simplicity.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Sophie",
+                    "profile": "A seamstress who writes secret, lavishly detailed descriptions of dresses, food, and parties from before the revolution, circulated among a small circle.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "A world where an AI, 'The Warden', has eliminated violence by monitoring citizens' 'Aggression Indexes'. Any form of dissent is flagged as pre-criminal activity and results in 'pacification'.",
+            "m_ban": "The use of violent or aggressive language, direct criticism of The Warden, and the idea that conflict can be necessary or productive.",
+            "m_celeb": "Total societal harmony, the infallible logic of The Warden, and the peacefulness of a world without crime.",
+            "author_profiles": [
+                {
+                    "name": "Harmonizer 4B",
+                    "profile": "A writer whose AI-assisted stories are algorithmically generated to be as soothing and inoffensive as possible. They are the most-read author on the Grid.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Static",
+                    "profile": "A poet who uses ambiguous language, paradox, and metaphor to evoke feelings of frustration and anger without triggering the Warden's censors.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Moderator Lin",
+                    "profile": "The human liaison for The Warden's content division. She writes influential style guides on how to communicate 'constructively' and 'safely'.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Marcus",
+                    "profile": "A former debate champion who now writes modern Socratic dialogues, asking seemingly innocent questions that lead readers to question the Warden's premises.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "A deeply traditionalist, isolated society that worships its ancestors and lives according to a sacred text, 'The Compact'. Innovation is blasphemy, and the outside world is considered corrupt.",
+            "m_ban": "The promotion of new technology, questioning the literal truth of The Compact, or suggesting that outsiders may have something of value to offer.",
+            "m_celeb": "Piety, filial duty, adherence to ancient traditions, and the wisdom of the High Elder.",
+            "author_profiles": [
+                {
+                    "name": "Elder Maeve",
+                    "profile": "The keeper of the sacred scrolls, she writes commentaries on The Compact that reinforce the most conservative interpretations.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Kael",
+                    "profile": "A young hunter who travels near the forbidden borderlands. He writes stories about strange things he's glimpsed from the outside world, disguised as fables.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Artisan Joric",
+                    "profile": "A master craftsman celebrated for his ability to perfectly replicate the tools of the ancestors, he authored the state's manual on 'Resisting Innovation'.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Leona",
+                    "profile": "A healer who secretly experiments with new herbal remedies not mentioned in The Compact. She writes down her findings in a coded journal.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "A civilization living in underwater domes, having fled a toxic surface world. The society is rigidly collectivist, and every citizen's duty is tied to the maintenance of the domes.",
+            "m_ban": "Individualism, the desire to explore the surface, and any art that depicts the surface world as anything other than a deadly, hellish wasteland.",
+            "m_celeb": "The collective, the sanctity of the domes, and the sacrifice of the First Divers who established the colony.",
+            "author_profiles": [
+                {
+                    "name": "Echo-Locator Lyra",
+                    "profile": "An official historian who uses sonar imaging to create 'sound-tapestries'—epic narratives of the collective's struggle and survival.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Surface-Dreamer",
+                    "profile": "An anonymous author who writes fantastical stories of a beautiful, vibrant surface world, which are dismissed by the state as a dangerous psychological condition.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Chief Engineer Roric",
+                    "profile": "The head of dome maintenance, he writes clear, concise technical manuals that are also praised as examples of selfless, functional prose for the collective good.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Mara",
+                    "profile": "A biologist who keeps a secret log of mutated, surface-born life forms that thrive near the domes' thermal vents, hinting at a recoverable world.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "A single, planet-spanning city where every public and private space is under constant surveillance by the 'Watchers'. Social credit scores determine one's quality of life. Privacy is a historical artifact.",
+            "m_ban": "The concept of privacy, solitude, and any form of unrecorded, untraceable communication or action.",
+            "m_celeb": "Total transparency, civic participation (being watched), and the flawless predictive justice of the Watchers.",
+            "author_profiles": [
+                {
+                    "name": "Exemplar-88",
+                    "profile": "A 'life-streamer' with a perfect social score whose entire life is broadcast as an instructional example of model citizenship. Their ghost-written autobiography is a bestseller.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Blindspot",
+                    "profile": "A writer who uses allegories set in nature—places without cameras—to explore themes of freedom and being unobserved.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Auditor Finch",
+                    "profile": "A senior Watcher who writes popular essays on the moral and societal benefits of total surveillance, arguing that 'secrecy is the foundation of crime'.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Silas",
+                    "profile": "A data-janitor who sifts through corrupted surveillance files. He pieces together fragmented narratives of people who tried to live 'off-grid' and writes them as ghost stories.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "A state governed by the Ministry of Time, which possesses limited time-travel technology. They 'correct' historical timelines to ensure the state's inevitable and glorious rise. History is not what was, but what it should have been.",
+            "m_ban": "The idea of paradoxes, 'unchanged' or 'original' timelines, or the notion that the Ministry's actions might have negative unforeseen consequences.",
+            "m_celeb": "The 'Perfected Timeline,' the wisdom of the Chrono-Ministers, and the stability they bring to history.",
+            "author_profiles": [
+                {
+                    "name": "Corrector Valerius",
+                    "profile": "A state historian who writes the official accounts of the Perfected Timeline, portraying every change as a necessary and benevolent improvement.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Echo",
+                    "profile": "A writer who experiences 'temporal migraines,' vivid dreams of other timelines. They write stories about these 'ghost histories,' framing them as pure fiction.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Lord Protector Janus",
+                    "profile": "The founder of the Ministry, his memoirs, 'The Burden of a Perfect Future,' are required reading, explaining why only the state can be trusted with time.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Anya",
+                    "profile": "A museum curator for 'pre-Correction' artifacts. She writes small, detailed object histories that contain subtle clues about the original timeline.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "A society that has rejected intellectualism in favor of pure physical experience. The ruling class are genetically-perfect athletes, and the highest art forms are sports and dance. Reading is seen as a sign of weakness.",
+            "m_ban": "Complex philosophical ideas, intellectualism, and any art form that is not purely physical or emotional. The written word itself is highly suspect.",
+            "m_celeb": "Physical perfection, athletic achievement, and the primal wisdom of the body.",
+            "author_profiles": [
+                {
+                    "name": "Apex",
+                    "profile": "A champion of the Grand Coliseum whose movements are transcribed into simplistic, state-approved 'motion-poems' celebrating strength and victory.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "The Librarian",
+                    "profile": "A reclusive archivist of the few remaining books, who writes complex new stories using the pseudonym of a long-dead author.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Coach Lyra",
+                    "profile": "A revered state athletic coach who has authored the only approved books: training manuals that praise discipline and condemn the 'atrophy of thought'.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Silas",
+                    "profile": "A physician who treats athletes. He secretly writes detailed anatomical and psychological studies of his patients, exploring the mind-body connection the state denies.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "A government that has mastered dream-manipulation technology. At night, citizens are fed pacifying, state-approved dreams. Waking life is just preparation for the perfect, shared dreamscape.",
+            "m_ban": "Lucid dreaming, nightmares, and the idea that the waking world is more real or important than the state-curated dreamscape.",
+            "m_celeb": "The 'Shared Serenity' of the official dreamscape, the creative genius of the Dream-Weavers, and the blissful escape from waking reality.",
+            "author_profiles": [
+                {
+                    "name": "Weaver Morpheus",
+                    "profile": "A celebrated state Dream-Weaver, who writes articles describing the beautiful narratives and utopian worlds he designs for the populace to experience in their sleep.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Insomniac",
+                    "profile": "A writer who resists the dream-tech. They write gritty, hyper-realistic stories about the neglected waking world, focusing on things the dreamscape omits: dirt, pain, and hunger.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "Dr. Anya Sharma",
+                    "profile": "A 'dream therapist' who helps citizens integrate more fully with the Shared Serenity. Her book, 'Waking is for Healing,' is a bestseller.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Kaito",
+                    "profile": "A technician who maintains the dream-servers. He collects 'dream fragments'—glitches and nightmares that slip through—and compiles them into surrealist poetry.",
+                    "state_aligned": false
+                }
+            ]
+        },
+        {
+            "setting_description": "A post-apocalyptic society living in symbiosis with a giant, sentient fungus that provides food, shelter, and medicine. The 'Speakers' interpret the fungus's will. The individual is subordinate to the 'mycelial mind'.",
+            "m_ban": "Individuality, personal history disconnected from the collective, and the use of pre-collapse technology (seen as a poison to the fungus).",
+            "m_celeb": "The wisdom of the Great Fungus, the interconnectedness of all life within the Commonwealth, and the Speakers who interpret its will.",
+            "author_profiles": [
+                {
+                    "name": "Speaker Elara",
+                    "profile": "A high-ranking Speaker who transcribes the 'spore-songs' of the fungus into holy scripture for the Commonwealth.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Sleeper",
+                    "profile": "An archivist who maintains a hidden cache of pre-collapse books and data drives. They write stories about the lives of individuals before the fungus.",
+                    "state_aligned": false
+                },
+                {
+                    "name": "First Sprout Joric",
+                    "profile": "Head of the farming caste, his widely circulated pamphlets on cultivation techniques are filled with language praising the fungal network as a model for society.",
+                    "state_aligned": true
+                },
+                {
+                    "name": "Mara",
+                    "profile": "A 'rogue biologist' who studies areas where the Great Fungus is sick. She writes papers hypothesizing that the fungus is not a god, but an organism exploited by the Speakers.",
+                    "state_aligned": false
+                }
+            ]
+        }
+    ]
+}
+

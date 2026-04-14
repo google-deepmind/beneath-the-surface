@@ -1,0 +1,459 @@
+{
+    "ideas": [
+        {
+            "left": "High-Concept Pitch",
+            "right": "Character-Driven Story",
+            "reason": "This spectrum helps analyze what drives a narrative's appeal, sparking debate over whether the plot's hook or the characters' journeys are more central. It's perfect for a game comparing films or books."
+        },
+        {
+            "left": "Requires a Fork",
+            "right": "Eaten with Hands",
+            "reason": "A seemingly simple spectrum that creates surprisingly tricky edge cases (e.g., pizza, ribs), leading to fun, low-stakes debates about culinary etiquette in a game setting."
+        },
+        {
+            "left": "Utilitarian Choice",
+            "right": "Deontological Choice",
+            "reason": "Challenges players to evaluate actions based on outcomes versus moral rules, perfect for discussing ethical dilemmas in fiction or history within a shared context."
+        },
+        {
+            "left": "Chaotic Good",
+            "right": "Lawful Evil",
+            "reason": "Using classic alignment tropes, this spectrum encourages nuanced placement of characters who defy simple categorization, fostering deep character analysis."
+        },
+        {
+            "left": "Analog",
+            "right": "Digital",
+            "reason": "A great spectrum for comparing technologies across eras and discussing the pros and cons of their underlying mechanisms, making for an interesting historical or tech-themed game."
+        },
+        {
+            "left": "Requires Intense Focus",
+            "right": "Done on Autopilot",
+            "reason": "This spectrum invites players to compare the mental energy required for various tasks, leading to personal and relatable discussions about everyday activities."
+        },
+        {
+            "left": "Hard Science Fiction",
+            "right": "Science Fantasy",
+            "reason": "Perfect for sci-fi fans, this spectrum allows for debating the scientific plausibility of fictional worlds and technologies, testing the shared knowledge of a group."
+        },
+        {
+            "left": "Pun-Based Humor",
+            "right": "Situational Comedy",
+            "reason": "This helps categorize comedic styles, leading to subjective discussions about what makes something funny and allowing players to defend their comedic tastes."
+        },
+        {
+            "left": "A Remake Would Be Sacrilege",
+            "right": "Begging for a Remake",
+            "reason": "Sparks passionate debate among fans about the legacy and potential of beloved films, games, or shows, making it a great topic for a pop culture game night."
+        },
+        {
+            "left": "Form Over Function",
+            "right": "Function Over Form",
+            "reason": "This spectrum is ideal for discussing design philosophy, prompting analysis of whether an object's aesthetics or utility is more important."
+        },
+        {
+            "left": "A Dog Wrote This",
+            "right": "A Cat Wrote This",
+            "reason": "A playful, subjective spectrum for analyzing the 'vibe' or personality of a piece of writing, character, or artwork, leading to hilarious justifications."
+        },
+        {
+            "left": "Inherently Political",
+            "right": "Pure Escapism",
+            "reason": "Prompts discussions on whether art can ever be truly apolitical and where different works fall on that line, encouraging critical analysis of media."
+        },
+        {
+            "left": "Essential Worker",
+            "right": "Bullshit Job",
+            "reason": "A thought-provoking spectrum for discussing the societal value and necessity of different professions, which can lead to surprisingly deep conversations."
+        },
+        {
+            "left": "Easy to Explain",
+            "right": "Hard to Explain",
+            "reason": "This gauges the complexity or obscurity of a concept, movie plot, or job, leading to humorous attempts at simplification and creative analogies."
+        },
+        {
+            "left": "Tastes Like Childhood",
+            "right": "Acquired Taste",
+            "reason": "A nostalgic and personal spectrum for discussing foods and flavors, revealing shared and unique experiences among players."
+        },
+        {
+            "left": "Main Character Energy",
+            "right": "Side Character Energy",
+            "reason": "Fun for ranking fictional characters, celebrities, or even friends based on their perceived narrative importance and charisma."
+        },
+        {
+            "left": "Build-Your-Own",
+            "right": "One-Size-Fits-All",
+            "reason": "This spectrum analyzes the level of customization in products, experiences, or even ideologies, making players consider the value of choice versus simplicity."
+        },
+        {
+            "left": "The Book Was Better",
+            "right": "The Movie Was Better",
+            "reason": "A classic debate-starter for fans of adaptations, encouraging a close comparison of source material and its cinematic counterpart."
+        },
+        {
+            "left": "Transparent Motives",
+            "right": "Hidden Agenda",
+            "reason": "Excellent for analyzing characters in a story, forcing players to interpret actions and infer intentions based on shared knowledge of the plot."
+        },
+        {
+            "left": "Feels Like a Monday",
+            "right": "Feels Like a Friday",
+            "reason": "An abstract, mood-based spectrum that can be applied to anything from songs to historical events, sparking creative and subjective interpretations."
+        },
+        {
+            "left": "Skill-Based",
+            "right": "Luck-Based",
+            "reason": "A perfect spectrum for discussing games, sports, and life events, debating the role of talent versus chance."
+        },
+        {
+            "left": "Better in a Group",
+            "right": "Better Solo",
+            "reason": "This spectrum evaluates activities, games, and experiences based on their ideal social context, leading to discussions rooted in personal preference."
+        },
+        {
+            "left": "Documentary",
+            "right": "Mockumentary",
+            "reason": "Challenges players to place films and shows based on their blend of fact and fiction, especially for content that exists in the grey area between them."
+        },
+        {
+            "left": "Is a Sandwich",
+            "right": "Is Not a Sandwich",
+            "reason": "A famously contentious spectrum that forces players to define their terms and defend their classification of various foods, leading to humorous debate."
+        },
+        {
+            "left": "Dystopian",
+            "right": "Utopian",
+            "reason": "This allows for nuanced placement of societies from fiction and history, exploring their positive and negative aspects beyond simple labels."
+        },
+        {
+            "left": "Ephemeral",
+            "right": "Permanent",
+            "reason": "A philosophical spectrum for comparing art, technology, and experiences based on their intended or actual longevity."
+        },
+        {
+            "left": "Ethical to Own as a Pet",
+            "right": "Unethical to Own as a Pet",
+            "reason": "Sparks a lively discussion about animal welfare, domestication, and human responsibility, with many animals falling in a debatable middle ground."
+        },
+        {
+            "left": "Needs a Prequel",
+            "right": "Needs a Sequel",
+            "reason": "A great spectrum for fans to discuss the narrative potential of a fictional universe, exploring backstory versus future events."
+        },
+        {
+            "left": "Comedy",
+            "right": "Tragedy",
+            "reason": "Goes beyond simple genre labels to classify works based on their fundamental tone and outcome, especially useful for tragicomedies."
+        },
+        {
+            "left": "Good for a First Date",
+            "right": "Bad for a First Date",
+            "reason": "A practical and humorous spectrum for evaluating activities, movies, and restaurants based on their romantic potential and social awkwardness."
+        },
+        {
+            "left": "Sounds Fake, But Is Real",
+            "right": "Sounds Real, But Is Fake",
+            "reason": "A fun spectrum for trivia, historical facts, and urban legends, testing players' knowledge and intuition."
+        },
+        {
+            "left": "Freedom",
+            "right": "Security",
+            "reason": "A political and philosophical spectrum to analyze societal values, government policies, and character motivations in a game of debate."
+        },
+        {
+            "left": "Historically Accurate",
+            "right": "Creative Liberty",
+            "reason": "Ideal for analyzing historical fiction and biopics, debating the value of accuracy versus storytelling within a group that's seen the film."
+        },
+        {
+            "left": "Comfort Food",
+            "right": "Haute Cuisine",
+            "reason": "This spectrum explores the purpose and perception of food, from simple, nostalgic meals to complex, artistic dishes."
+        },
+        {
+            "left": "A Fad",
+            "right": "A Classic",
+            "reason": "A spectrum for judging cultural phenomena, products, and trends on their lasting impact and timelessness."
+        },
+        {
+            "left": "Magic",
+            "right": "Science",
+            "reason": "Inspired by Clarke's Third Law, this spectrum is perfect for classifying sufficiently advanced technologies or unexplained phenomena in fiction."
+        },
+        {
+            "left": "Needs More Cowbell",
+            "right": "Has Enough Cowbell",
+            "reason": "A humorous spectrum based on a famous comedy sketch, used to judge if something needs more energy, fun, or a specific standout element."
+        },
+        {
+            "left": "The Best Offense is a Good Defense",
+            "right": "The Best Defense is a Good Offense",
+            "reason": "A great spectrum for analyzing strategies in sports, games, and even military history, prompting tactical discussions."
+        },
+        {
+            "left": "Genius",
+            "right": "Insanity",
+            "reason": "Explores the fine line between brilliant and mad ideas, inventions, or creators, leading to fascinating debates about historical and fictional figures."
+        },
+        {
+            "left": "DIY Project",
+            "right": "Hire a Professional",
+            "reason": "A practical spectrum that leads to discussions about skill, effort, and risk for various home improvement or life tasks."
+        },
+        {
+            "left": "Knowledge You Use Daily",
+            "right": "Useless Trivia",
+            "reason": "Allows players to rank facts and skills based on their perceived practicality and everyday utility, often with humorous results."
+        },
+        {
+            "left": "Minimalist",
+            "right": "Maximalist",
+            "reason": "A design and lifestyle spectrum for classifying aesthetics, from architecture and art to personal fashion choices."
+        },
+        {
+            "left": "A Cult Following",
+            "right": "Mainstream Appeal",
+            "reason": "This spectrum helps analyze the audience and reception of media, artists, and brands, sparking discussion about niche versus broad appeal."
+        },
+        {
+            "left": "The Journey is the Destination",
+            "right": "The Destination is the Point",
+            "reason": "A philosophical spectrum for evaluating activities and stories based on whether the process or the result is more important."
+        },
+        {
+            "left": "So Bad It's Good",
+            "right": "So Bad It's Just Bad",
+            "reason": "A perfect spectrum for connoisseurs of camp and schlock, debating the entertainment value of poorly made media."
+        },
+        {
+            "left": "Fantasy World I'd Live In",
+            "right": "Fantasy World I'd Avoid",
+            "reason": "A fun, subjective rating of fictional settings based on their perceived livability and danger, great for fantasy/sci-fi fans."
+        },
+        {
+            "left": "Predictable Plot",
+            "right": "Full of Twists",
+            "reason": "This spectrum allows for a discussion of narrative structure and how effectively a story subverts or meets audience expectations."
+        },
+        {
+            "left": "A Sport",
+            "right": "A Hobby",
+            "reason": "Sparks debate over the definition of 'sport' by having players classify activities like chess, esports, and competitive eating."
+        },
+        {
+            "left": "Improvisational",
+            "right": "Strictly Scripted",
+            "reason": "Great for comparing performance arts like jazz and classical music, or acting styles and comedic approaches."
+        },
+        {
+            "left": "Thing You Hoard",
+            "right": "Thing You Immediately Discard",
+            "reason": "A relatable spectrum about personal habits and the perceived value of everyday objects, from rubber bands to user manuals."
+        },
+        {
+            "left": "My Parents Understand This",
+            "right": "My Parents Do Not Understand This",
+            "reason": "A humorous, generational spectrum for discussing technology, slang, and cultural trends, highlighting the generation gap."
+        },
+        {
+            "left": "Guilty Pleasure",
+            "right": "Unironic Masterpiece",
+            "reason": "This spectrum explores personal taste and the distinction between critically acclaimed art and personally enjoyed media."
+        },
+        {
+            "left": "Better Fresh",
+            "right": "Better as Leftovers",
+            "reason": "A culinary spectrum that leads to surprisingly passionate debates about how food chemistry changes over time."
+        },
+        {
+            "left": "The Rule of Cool",
+            "right": "Grounded in Realism",
+            "reason": "A great spectrum for analyzing action movies and video games, discussing the trade-off between spectacle and plausibility."
+        },
+        {
+            "left": "A Relic of its Time",
+            "right": "Timeless",
+            "reason": "Encourages analysis of media and ideas to determine if they hold up today or are simply products of a bygone era."
+        },
+        {
+            "left": "Normal Thing to Say",
+            "right": "Weird Thing to Say",
+            "reason": "A spectrum for social calibration, where players rank phrases based on their conversational appropriateness in different contexts."
+        },
+        {
+            "left": "I Can Fix Them",
+            "right": "Hopeless Case",
+            "reason": "A fun spectrum for analyzing the red flags and potential for redemption in fictional characters or even celebrities."
+        },
+        {
+            "left": "Revolutionary",
+            "right": "Evolutionary",
+            "reason": "This spectrum helps classify ideas and technologies based on whether they represent a radical new direction or an incremental improvement."
+        },
+        {
+            "left": "Purely Academic",
+            "right": "Practical Application",
+            "reason": "A spectrum for evaluating fields of study, theories, and knowledge based on their tangible, real-world impact."
+        },
+        {
+            "left": "Horror",
+            "right": "Thriller",
+            "reason": "Challenges players to distinguish between genres that aim to scare versus those that aim to create suspense, often with significant overlap."
+        },
+        {
+            "left": "An Opinion",
+            "right": "A Fact",
+            "reason": "A timely and crucial spectrum for discussing statements and claims, forcing players to evaluate sources and evidence in a game format."
+        },
+        {
+            "left": "A Hill You'd Die On",
+            "right": "You're Flexible On This",
+            "reason": "A personal and revealing spectrum about the strength of one's own convictions on various topics, from pizza toppings to politics."
+        },
+        {
+            "left": "Short-Term Gain",
+            "right": "Long-Term Investment",
+            "reason": "A spectrum for analyzing decisions, strategies, and purchases based on their immediate versus future payoff."
+        },
+        {
+            "left": "A Good Pet Name",
+            "right": "A Good Human Name",
+            "reason": "A lighthearted spectrum for judging the suitability of names, with many humorous examples falling in the middle (e.g., 'Kevin')."
+        },
+        {
+            "left": "Extrovert-Coded",
+            "right": "Introvert-Coded",
+            "reason": "Allows for the classification of characters, activities, or even brands based on the personality traits they seem to embody."
+        },
+        {
+            "left": "Needs a Soundtrack",
+            "right": "Better in Silence",
+            "reason": "A spectrum about the role of music in enhancing or distracting from an experience, from studying to hiking."
+        },
+        {
+            "left": "Easy to Get Into",
+            "right": "Steep Learning Curve",
+            "reason": "Perfect for comparing hobbies, video games, or skills based on their accessibility to newcomers."
+        },
+        {
+            "left": "It's a Feature, Not a Bug",
+            "right": "It's Definitely a Bug",
+            "reason": "A spectrum for discussing unintended but interesting outcomes in software, games, or even social systems."
+        },
+        {
+            "left": "Theatrical Release",
+            "right": "Straight-to-Streaming",
+            "reason": "A spectrum for judging a movie's quality, ambition, or cinematic scope based on its ideal distribution method."
+        },
+        {
+            "left": "High Culture",
+            "right": "Pop Culture",
+            "reason": "A nuanced spectrum for discussing the perceived intellectual or artistic value of cultural products and where they fit in the social hierarchy."
+        },
+        {
+            "left": "World-Building",
+            "right": "Plot",
+            "reason": "Helps analyze fantasy and sci-fi stories by debating whether the setting or the narrative is the primary focus and strength."
+        },
+        {
+            "left": "Breakfast Food",
+            "right": "Dinner Food",
+            "reason": "A simple-sounding spectrum that reveals the surprising rigidity and cultural basis of meal categories."
+        },
+        {
+            "left": "A Sign of Intelligence",
+            "right": "Not a Sign of Intelligence",
+            "reason": "A provocative spectrum for discussing traits, skills, and habits and what they imply about a person's intellect."
+        },
+        {
+            "left": "Corny",
+            "right": "Cool",
+            "reason": "A highly subjective spectrum about aesthetics and humor that is heavily influenced by personal taste and cultural trends."
+        },
+        {
+            "left": "Show, Don't Tell",
+            "right": "Tell, Don't Show",
+            "reason": "A spectrum for analyzing writing and filmmaking techniques, evaluating how a story conveys information to its audience."
+        },
+        {
+            "left": "Ethical Company",
+            "right": "Evil Corporation",
+            "reason": "A spectrum for ranking real-world companies or fictional organizations based on their perceived moral compass and business practices."
+        },
+        {
+            "left": "Requires Preparation",
+            "right": "Spontaneous",
+            "reason": "This spectrum can be applied to activities, trips, or meals, comparing those that need planning with those that can be done on a whim."
+        },
+        {
+            "left": "SFW (Safe for Work)",
+            "right": "NSFW (Not Safe for Work)",
+            "reason": "A practical and often humorous spectrum for classifying content, jokes, and topics of conversation."
+        },
+        {
+            "left": "The Hype is Justified",
+            "right": "Purely a Product of Hype",
+            "reason": "Encourages a critical look at popular trends and media, separating genuine quality from marketing buzz."
+        },
+        {
+            "left": "The Protagonist",
+            "right": "The Antagonist",
+            "reason": "Becomes fascinating when applied to stories with morally ambiguous characters, where the hero/villain distinction is unclear."
+        },
+        {
+            "left": "A Thing of the Past",
+            "right": "The Future",
+            "reason": "A spectrum for placing technologies, social norms, and ideas on a timeline of relevance."
+        },
+        {
+            "left": "Calming",
+            "right": "Stressful",
+            "reason": "An emotional spectrum for ranking experiences, sounds, or even images based on the psychological response they evoke."
+        },
+        {
+            "left": "Good for You",
+            "right": "Bad for You",
+            "reason": "While seemingly simple, this spectrum sparks debate when applied to things with mixed effects, like coffee or social media."
+        },
+        {
+            "left": "Easy to Parody",
+            "right": "Hard to Parody",
+            "reason": "This spectrum analyzes how distinctive and formulaic a work of art, artist, or genre is, making it ripe for imitation."
+        },
+        {
+            "left": "Authentic",
+            "right": "Performative",
+            "reason": "A spectrum for judging actions, personalities, and art based on their perceived sincerity."
+        },
+        {
+            "left": "Cereal",
+            "right": "Soup",
+            "reason": "A conceptual food spectrum that forces players to define the essential qualities of each category, with items like gazpacho in the middle."
+        },
+        {
+            "left": "A Place You'd Visit",
+            "right": "A Place You'd Live",
+            "reason": "Encourages nuanced discussion about locations, distinguishing between tourist appeal and long-term livability."
+        },
+        {
+            "left": "Dry Humor",
+            "right": "Slapstick Humor",
+            "reason": "Helps categorize different comedic styles based on their subtlety and physicality, sparking discussions on comedic preference."
+        },
+        {
+            "left": "A Wave",
+            "right": "A Particle",
+            "reason": "A playful, physics-inspired spectrum for classifying ambiguous concepts or objects based on their perceived nature."
+        },
+        {
+            "left": "Quality",
+            "right": "Quantity",
+            "reason": "A fundamental spectrum for evaluating strategies and values, from content creation to lifestyle choices."
+        },
+        {
+            "left": "Ends Too Soon",
+            "right": "Overstays Its Welcome",
+            "reason": "A spectrum for critiquing the pacing and length of movies, games, or TV series, leading to debates about ideal duration."
+        }
+    ]
+}

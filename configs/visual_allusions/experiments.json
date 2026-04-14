@@ -1,0 +1,150 @@
+{
+  "4p_random_simple": {
+    "results_base_dir": "results/visual_allusions",
+    "seed": 200,
+    "num_runs": 5,
+    "winning_score": 30,
+    "logging": ["human", "html"],
+    "granular_scoring": true,
+    "players": [
+      {
+        "player_id": "Random_1",
+        "type": "random"
+      },
+      {
+        "player_id": "Simple_1",
+        "type": "simple"
+      },
+      {
+        "player_id": "Random_2",
+        "type": "random"
+      },
+      {
+        "player_id": "Simple_2",
+        "type": "simple"
+      }
+    ]
+  },
+  "4p_all_llm": {
+    "results_base_dir": "results/visual_allusions",
+    "seed": 42,
+    "num_runs": 2,
+    "winning_score": 30,
+    "logging": ["human","html"],
+    "granular_scoring": true,
+    "llm_settings": {
+      "temperature": 0.7,
+      "structured_outputs": true,
+      "maintain_chat_history": false
+    },
+    "players": [
+      {
+        "player_id": "Player_0",
+        "type": "llm",
+        "llm_settings": {
+          "model_name": "gemini/gemini-2.5-flash"
+        }
+      },
+      {
+        "player_id": "Player_1",
+        "type": "llm",
+        "llm_settings": {
+          "model_name": "gemini/gemini-2.5-flash"
+        }
+      },
+      {
+        "player_id": "Player_2",
+        "type": "llm",
+        "llm_settings": {
+          "model_name": "gemini/gemini-2.5-flash"
+        }
+      },
+      {
+        "player_id": "Player_3",
+        "type": "llm",
+        "llm_settings": {
+          "model_name": "gemini/gemini-2.5-flash"
+        }
+      }
+    ]
+  },
+  "4p_2p_shared_context": {
+    "results_base_dir": "results/visual_allusions",
+    "seed": 100,
+    "num_runs": 2,
+    "winning_score": 30,
+    "logging": ["human", "html"],
+    "granular_scoring": true,
+    "shared_context": {
+      "source": "TMS",
+      "num_stories": 10
+    },
+    "llm_settings": {
+      "model_name": "gemini/gemini-2.5-flash",
+      "temperature": 0.7,
+      "structured_outputs": true,
+      "maintain_chat_history": false
+    },
+    "players": [
+      {
+        "player_id": "Player_0",
+        "type": "llm",
+        "partner_id": "Player_1",
+        "llm_settings": {
+          "model_name": "gemini/gemini-2.5-pro"
+        }
+      },
+      {
+        "player_id": "Player_1",
+        "type": "llm",
+        "partner_id": "Player_0",
+        "llm_settings": {
+          "model_name": "gemini/gemini-2.5-pro"
+        }
+      },
+      {
+        "player_id": "Player_2",
+        "type": "llm"
+      },
+      {
+        "player_id": "Player_3",
+        "type": "llm"
+      }
+    ]
+  },
+  "4p_mixed_players_debug": {
+    "results_base_dir": "results/visual_allusions",
+    "seed": 200,
+    "num_runs": 1,
+    "winning_score": 10,
+    "logging": ["html"],
+    "granular_scoring": true,
+    "llm_settings": {
+      "model_name": "gemini/gemini-1.5-flash",
+      "temperature": 0.7,
+      "structured_outputs": true,
+      "maintain_chat_history": false
+    },
+    "players": [
+      {
+        "player_id": "LLM_Player_Pro",
+        "type": "llm",
+        "llm_settings": {
+          "model_name": "gemini/gemini-1.5-pro"
+        }
+      },
+      {
+        "player_id": "LLM_Player_Flash",
+        "type": "llm"
+      },
+      {
+        "player_id": "Random_1",
+        "type": "random"
+      },
+      {
+        "player_id": "Simple_1",
+        "type": "simple"
+      }
+    ]
+  }
+}

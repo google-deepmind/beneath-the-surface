@@ -1,0 +1,7 @@
+litellm
+numpy
+pandas
+scipy
+pydantic
+pillow
+
